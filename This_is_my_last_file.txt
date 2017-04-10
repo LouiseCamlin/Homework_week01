@@ -1,0 +1,2 @@
+Writing text into my file
+fun fun fun
